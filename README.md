@@ -12,4 +12,5 @@ A complete, lightweight 2D side-scrolling platformer game engineered 100% in **P
 1. Download **Pydroid 3** from the Google Play Store.
 2. Open Pydroid's menu, navigate to **Pip**, and install `kivy`.
 3. Download this repository as a `.zip` file and extract it on your phone.
-4. Open `main.py` inside Pydroid 3 and tap the **Play** button!
+4. Open `ftmh.py` inside Pydroid 3 and tap the **Play** button!
+5. Do not extract "ftmh.py" from folde,only extract folder from zip to get full expernice with my assets added.
